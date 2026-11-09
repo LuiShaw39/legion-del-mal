@@ -1,7 +1,7 @@
 
 ![Estático](https://img.shields.io/badge/Legion-Versión-green)
 
-![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=black)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/LuiShaw39/legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/LuiShaw39/legion-del-mal)
